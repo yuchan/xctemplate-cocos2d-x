@@ -38,5 +38,3 @@ bool ___FILEBASENAMEASIDENTIFIER___::init()
 
   return true;
 }
-
-@end
