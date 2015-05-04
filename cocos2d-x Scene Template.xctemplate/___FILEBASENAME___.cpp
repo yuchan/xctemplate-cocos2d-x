@@ -38,3 +38,8 @@ bool ___FILEBASENAMEASIDENTIFIER___::init()
 
   return true;
 }
+
+void ___FILEBASENAMEASIDENTIFIER___::update(float dt)
+{
+  
+}

@@ -20,6 +20,7 @@ protected:
 
 public:
   static cocos2d::Scene* createScene();
+  void update(float dt) override;
   CREATE_FUNC(___FILEBASENAMEASIDENTIFIER___);
 };
 
